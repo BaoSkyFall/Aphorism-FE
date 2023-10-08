@@ -23,7 +23,7 @@ export default function App({ Component, pageProps }) {
                     cont
                     ent="width=device-width, initial-scale=1"
                 />
-                <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" />
+                {/* <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" /> */}
 
                 <link rel="icon" href="/favicon.ico" />
                 <link rel="preconnect" href="https://fonts.googleapis.com" />
