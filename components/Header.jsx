@@ -1,3 +1,4 @@
+'use server'
 import React, { useState, useEffect } from "react";
 import Wrapper from "./Wrapper";
 
